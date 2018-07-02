@@ -1,4 +1,4 @@
 # # Your code goes here!
-# class Anagram
-#   attr_accessor :
-# end
+class Anagram
+  attr_accessor :name
+end
