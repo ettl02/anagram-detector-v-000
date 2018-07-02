@@ -9,6 +9,6 @@ end
 
 def match (array)
   array.select {|x|x.split("")} == @name.split("").sort}
-  
+
 end
 end
